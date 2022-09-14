@@ -1,0 +1,21 @@
+.room3,.valuetableroom{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    place-items: center;
+    border: 1px solid lightgray;
+    height: 50px;
+}
+.list{
+    height: 314px;
+    overflow-y: scroll ;
+}
+.roombtn{
+    border: none;
+    background-color: orange;
+}
+.orange{
+    color: orange;
+}
+.red{
+    color: red;
+}
